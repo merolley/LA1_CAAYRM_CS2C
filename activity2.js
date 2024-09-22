@@ -9,6 +9,7 @@ let div = firstFavNum/secondFavNum;
 let mod = firstFavNum%secondFavNum;
 let exp = firstFavNum**secondFavNum;
 
+//output of all operations
 console.log(sum);
 console.log(sub);
 console.log(mul);
